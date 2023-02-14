@@ -1,0 +1,35 @@
+body,html{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.conteudo{
+    border-style: solid;
+    border-color: #000;
+    border-width: 1px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    display:flex;
+    flex-direction: row;
+    background-color: silver;
+}
+
+
+.card {
+    border-style: solid;
+    border-color: #000;
+    border-width: 1px;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 5px;
+}
+
+
+
